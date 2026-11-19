@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/mbpubcommunication-tech/digibaf-tv/main/DIGIBA
 
 Avec l'app **Downloader** sur la TV : tapez le code **9090024**, puis acceptez l'installation.
 
-## Application téléphone (Android) — version 0.5.1
+## Application téléphone (Android) — version 0.5.2
 
 Ouvrez ce lien sur le téléphone, puis touchez le fichier téléchargé pour l'installer :
 
