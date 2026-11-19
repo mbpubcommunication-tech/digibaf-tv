@@ -4,7 +4,7 @@
 ## 1. Installer et démarrer
 
 1. Sur la TV, installez **Downloader** depuis le Play Store.
-2. Dans Downloader, tapez le code DIGIBAF fourni par votre installateur, puis **Go**.
+2. Dans Downloader, tapez le code **9090024**, puis **Go**.
 3. Installez puis ouvrez **DIGIBAF Affichage TV**.
 4. Lancez l'**assistant d'installation** (touche OK sur l'écran d'accueil). Il vérifie :
    - la connexion Wi-Fi ;
