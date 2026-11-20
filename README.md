@@ -1,12 +1,12 @@
 # DIGIBAF Affichage — application TV
 
-Téléchargement direct de l'application TV (Android TV / Google TV) — version 0.6.0 :
+Téléchargement direct de l'application TV (Android TV / Google TV) — version 0.6.3 :
 
 https://raw.githubusercontent.com/mbpubcommunication-tech/digibaf-tv/main/DIGIBAF-Affichage-TV.apk
 
 Avec l'app **Downloader** sur la TV : tapez le code **9090024**, puis acceptez l'installation.
 
-## Application téléphone (Android) — version 0.6.0
+## Application téléphone (Android) — version 0.6.3
 
 Ouvrez ce lien sur le téléphone, puis touchez le fichier téléchargé pour l'installer :
 
