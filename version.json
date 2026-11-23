@@ -1,16 +1,16 @@
 {
  "tv": {
-  "code": 130,
-  "name": "1.3.0",
+  "code": 131,
+  "name": "1.3.1",
   "url": "DIGIBAF-Affichage-TV.apk",
-  "sha256": "2a3295327a6b68004c31ecd770399b1ccda5dcf362d233b698c1edbeded316b7",
-  "notes": "mises à jour automatiques"
+  "sha256": "6fbeeac262d77eee7b418944d5dc7d86a3d7d49542c56602cc12d086f7732891",
+  "notes": "corrections"
  },
  "phone": {
-  "code": 130,
-  "name": "1.3.0",
+  "code": 131,
+  "name": "1.3.1",
   "url": "DIGIBAF-Affichage-Telephone.apk",
-  "sha256": "45c0ea03b3363afc89bfd238ff462e28e9a5436742ac61f18b1d79316ff8e6ec",
-  "notes": "mises à jour automatiques"
+  "sha256": "803934da95ca6583cec7e1bb15dd866f5426ab86500ed5d899a3be8ffcda67dc",
+  "notes": "programme en cours visible à distance"
  }
 }
