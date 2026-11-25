@@ -1,16 +1,16 @@
 {
  "tv": {
-  "code": 141,
-  "name": "1.4.1",
+  "code": 142,
+  "name": "1.4.2",
   "url": "DIGIBAF-Affichage-TV.apk",
-  "sha256": "bef847c16dff389f10e9a9511869c9d9370b2c025d8c8407629d8425bc0e2285",
-  "notes": "mode magasin verrouillé"
+  "sha256": "8f3761e2dffbe244fd0a9472b3c584ba0a5ed244bca9d6b01964aa3eee0a0c94",
+  "notes": "préparation par DIGIBAF Installateur"
  },
  "phone": {
-  "code": 140,
-  "name": "1.4.0",
+  "code": 142,
+  "name": "1.4.2",
   "url": "DIGIBAF-Affichage-Telephone.apk",
-  "sha256": "93473d4b88f755b71cde42967c7d7638af7760499425eb47a02be9920d3dd363",
-  "notes": "sauvegarde et restauration de vos écrans"
+  "sha256": "d6ed9dfa1e5fd268f8d4e7dba5165dd3d9dcb51b78cb8e42b8f391f20ef87127",
+  "notes": "les TV préparées apparaissent toutes seules"
  }
 }
