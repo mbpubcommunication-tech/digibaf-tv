@@ -1,10 +1,10 @@
 {
  "tv": {
-  "code": 140,
-  "name": "1.4.0",
+  "code": 141,
+  "name": "1.4.1",
   "url": "DIGIBAF-Affichage-TV.apk",
-  "sha256": "c245db864f278c68bf710e4cf7e7f2c132bce6daf6e88e54e188759428a3cd5e",
-  "notes": "sauvegarde automatique et actions à distance"
+  "sha256": "bef847c16dff389f10e9a9511869c9d9370b2c025d8c8407629d8425bc0e2285",
+  "notes": "mode magasin verrouillé"
  },
  "phone": {
   "code": 140,
