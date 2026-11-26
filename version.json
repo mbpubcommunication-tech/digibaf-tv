@@ -7,10 +7,10 @@
   "notes": "préparation par DIGIBAF Installateur"
  },
  "phone": {
-  "code": 142,
-  "name": "1.4.2",
+  "code": 143,
+  "name": "1.4.3",
   "url": "DIGIBAF-Affichage-Telephone.apk",
-  "sha256": "d6ed9dfa1e5fd268f8d4e7dba5165dd3d9dcb51b78cb8e42b8f391f20ef87127",
-  "notes": "les TV préparées apparaissent toutes seules"
+  "sha256": "930e39aefa3d56a668cbe3ea8dcbf42498ac64ea7f3f3ab5efd4dde3a9277cd7",
+  "notes": "restauration proposée dès que la liste est vide"
  }
 }
